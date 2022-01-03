@@ -1,0 +1,19 @@
+body {
+    background-color: #7bdaf3;
+}
+
+div {
+    background-color: #9EC862;
+    font: bold;
+    font-size: 25px;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
+    color: white;
+    margin:auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.box {
+    padding: 8px 20px;
+}
